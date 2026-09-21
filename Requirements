@@ -1,0 +1,92 @@
+1. Title
+
+Food Delivery Management System
+
+2. Domain
+
+Food Delivery and Online Food Ordering
+
+3. Who is the user?
+
+The main users are Customers, Restaurant Staff, Delivery Partners, and Admin.
+
+4. What problem are we solving?
+
+The system solves problems in manual food ordering, such as order management difficulties, billing errors, difficulty in tracking orders, and maintaining customer and food details.
+
+5. Proposed Solution
+
+We propose a Python-based Food Delivery Management System that allows customers to view food items, add food to the cart, place orders, and manage order details. Restaurants can manage food items and orders, while delivery partners can update delivery status.
+
+6. Core Entities / Database Tables
+
+Customer
+
+Restaurant
+
+Food
+
+Category
+
+Cart
+
+Cart Item
+
+Order
+
+Order Item
+
+Payment
+
+Address
+
+Delivery
+
+Delivery Partner
+
+Review
+
+Coupon
+
+
+7. User Roles & Permissions
+
+Customer: View food, add to cart, place orders, and give reviews.
+
+Restaurant: Add/update food items and manage orders.
+
+Delivery Partner: View assigned orders and update delivery status.
+
+Admin: Manage customers, restaurants, food items, orders, and users.
+
+8. Success Criteria
+
+User can successfully log in.
+
+User can view available food items.
+
+User can add food to the cart.
+
+User can place an order.
+
+Order details are stored correctly.
+
+Delivery status can be updated.
+
+Billing and order management become easier.
+
+
+9. Out of Scope
+
+Real-time GPS tracking
+
+Advanced AI food recommendations
+
+Multi-country delivery
+
+Advanced online payment gateway integration
+
+10. Chosen Track
+   Python
+
+Python Track 🐍

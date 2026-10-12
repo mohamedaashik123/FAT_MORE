@@ -1,0 +1,16 @@
+🍔 Fatmore – Food Delivery Web Application
+Project Status: Development Completed Locally 🚀
+Developed a food delivery web application using Python and Flask.
+Technologies Used:
+Python
+Flask
+HTML & CSS
+Features:
+User Login
+Food Search & Categories
+Add to Cart
+Favorites
+Bill Calculation
+Order Confirmation
+Local Application URL:
+http://127.0.0.1:5001
